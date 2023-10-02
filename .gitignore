@@ -1,5 +1,0 @@
-test_task/.env
-.idea
-db.sqlite3
-venv
-test_task/.dockerignore
