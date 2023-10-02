@@ -10,7 +10,7 @@ git clone https://github.com/alexroot-coder/test_task_django_Ranks.git
 ```
 Создайте виртуальное окружение и установите зависимости:
 ```sh
-cd test_task_django
+cd test_task_django_Ranks
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
